@@ -1,3 +1,8 @@
+#This page is under construction.
+
+![Under construction](https://upload.wikimedia.org/wikipedia/commons/d/d9/Under_construction_animated.gif) 
+
+
 # Efate2025
 - GitHub repository: [https://github.com/aubreymoore/Efate2025](https://github.com/aubreymoore/Efate2025)
 - GitHub pages: [https://aubreymoore.github.io/Efate2025](https://aubreymoore.github.io/Efate2025)
