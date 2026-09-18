@@ -5,7 +5,8 @@
 
 # Efate2025
 
-- Internet Archive (3,985 images): [https://archive.org/details/efate-2025](https://archive.org/details/efate-2025) https://archive.org/download/efate-2025/Efate2025.zip/crb%2F20251126_181150.jpg
+- Internet Archive (3,985 images): [https://archive.org/details/efate-2025](https://archive.org/details/efate-2025)
+- Example URL for a single page: https://archive.org/download/efate-2025/Efate2025.zip/crb%2F20251126_181150.jpg
 - GitHub repository: [https://github.com/aubreymoore/Efate2025](https://github.com/aubreymoore/Efate2025)
 - GitHub pages: [https://aubreymoore.github.io/Efate2025](https://aubreymoore.github.io/Efate2025)
 - Web map: [https://aubreymoore.github.io/Efate2025/webmap/wm/#11/-17.6339/168.5440](https://aubreymoore.github.io/Efate2025/webmap/wm/#11/-17.6339/168.5440)
