@@ -2,14 +2,14 @@
 
 ![Under construction](https://upload.wikimedia.org/wikipedia/commons/d/d9/Under_construction_animated.gif) 
 
+# Efate2025
+
 - This public GitHub repository contains data and results from a coconut rhinoceros beetle damage survey of Efate Island in Vanuatu.
 - The survey was performed by Dr, Sulav Paudel, of the Bioeconomy Science Institute, New Zealand.
 - Methods were the same as those used for 10 surveys on Guam, 1 survey on Rota, and 1 survey on Majuro with the following exceptions:
   - the smart phone camera was hand-held and not mounted to the outside of a vehicle as in previous surveys
   - most shots were automatically triggered at 1s intervals using the [OpenCamera app](https://sourceforge.net/projects/opencamera/), but some were manually triggered
   - and some shots were taken from a canoe. Now that's island style!
-
-# Efate2025
 
 ## Raw Data
 
