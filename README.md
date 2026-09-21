@@ -18,13 +18,14 @@
  
 ## Results
 
-| Item | Count |
-|------|-------|
-| Images | 3,985 |
-| Images containing coconut palms |2,928|
-| Healthy trees (0 vcuts) | 4,972 |
-| Damaged trees ( >0 vcuts) | 2,998 |
-| Dead trees | 3,943 |
+| Item | Count | Proportion |
+|------|-------|----|
+| Images | 3,985 ||
+| Images containing coconut palms |2,928||
+| Healthy trees (0 vcuts) | 4,972 | 42% |
+| Damaged trees ( >0 vcuts) | 2,998 | 25% |
+| Dead trees | 3,943 | 33% |
+| TOTAL TREES | 11,913 | |
 
 - GitHub repository: [https://github.com/aubreymoore/Efate2025](https://github.com/aubreymoore/Efate2025)
 - GitHub pages: [https://aubreymoore.github.io/Efate2025](https://aubreymoore.github.io/Efate2025)
