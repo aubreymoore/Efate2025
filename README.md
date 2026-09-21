@@ -18,7 +18,7 @@
  
 ## Results
 
-| Item | Count | Proportion |
+| Item | Count | % |
 |------|-------|----|
 | Images | 3,985 ||
 | Images containing coconut palms |2,928||
