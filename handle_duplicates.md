@@ -1,6 +1,8 @@
 # Handling duplicate images
 
-## Question from Sarah Mansfield, Bioeconomy Science Institute, New Zealand
+## Question 
+
+**from Sarah Mansfield, Bioeconomy Science Institute, New Zealand**
 
 Great to see the progress being made with the automated detection, the underlying programming for the system has really advanced. One question regarding the image processing – how do you handle duplication (through image overlap) of palms within the dataset? If the same palm is counted multiple times, that will affect the data. I’m familiar with the photo survey and there’s many palms that appear in more than one photo due to the high density of palms in key areas around Efate. When I’m assessing palm photos manually, I check for duplication/overlap between photos and where that is present, use the best image (most palms included and/or highest visual quality) as the basis for damage assessment. Is it possible for the program to recognize when the same palm appears in multiple images? Looking at the level of detail in the frond scanning, that seems a possibility although dead palms may be a significant challenge!
 
