@@ -12,7 +12,7 @@ I suggest a more efficient way. We don't have an exact location for each detecte
 
 I tried this idea out with the Efate2025 data.
 
-- Calculating **meters_from_previous_location** was easy and almost instantaneous (only 18ms) because the survey data are stored in a SpatiaLite database. If you look at the **spatialite_gui** screenshot, you will see that images in row 24, 25, and 26 were apparently shot from the same location.
+- Calculating **meters_from_previous_location** was easy and almost instantaneous (only 18 ms) because the survey data are stored in a SpatiaLite database. If you look at the **spatialite_gui** screenshot, you will see that images in row 24, 25, and 26 were apparently shot from the same location.
 
 - Downloading the 3 corresponding images from the Efate25 Survey Internet Archive confirms that these images are near-duplicates.
 
@@ -34,7 +34,7 @@ ORDER BY timestamp;
 
 ### Images identified as "probable duplicates"
 
-Note that these images were downloaded directly from the Efate25 Internete Database when you opened this page.
+Note that these 3 images were downloaded directly from the [Efate25 Internet Archive](https://archive.org/details/efate-2025) when you opened this page.
 
 ![](https://archive.org/download/efate-2025/Efate2025.zip/crb%2F20251126_181915.jpg)
 
