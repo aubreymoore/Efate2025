@@ -34,6 +34,9 @@ ORDER BY timestamp;
 ```
 ![](query_to_find_duplicate_images.png)
 
+### Camera movement histogram
+![](camera_movement_histo.png)
+
 ### Images identified as "probable duplicates"
 
 Note that these 3 images were downloaded directly from the [Efate25 Internet Archive](https://archive.org/details/efate-2025) when you opened this page.
